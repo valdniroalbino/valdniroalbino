@@ -31,8 +31,7 @@ system:
   objetivo_carreira: DevSecOps
   interesses:
     - Arquitetura de Software
-    - Grafos & Otimização (BFS/DFS, Dijkstra, Ford-Fulkerson)
-    - E-commerce (finanças, produto, criativos)
+    - Otimização
   status: "compilando conhecimento sem erros de sintaxe"
 ```
 
@@ -104,8 +103,6 @@ valdniro@ISPTEC:~$ _
 </div>
 
 <br>
-
-> 💡 O gráfico de quadrados verdes (contribuições) já aparece automaticamente na tua página de perfil, logo abaixo deste README — é nativo do GitHub, não precisa de nenhum código aqui.
 
 <br>
 
