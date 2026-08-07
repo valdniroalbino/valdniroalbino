@@ -90,20 +90,6 @@ valdniro@ISPTEC:~$ _
 
 <br>
 
-<!-- ===== GITHUB STATS ===== -->
-## `<` GITHUB_METRICS `/>`
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valdniroalbino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff0&icon_color=ff00c8&text_color=c9d1d9" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=valdniroalbino&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff0&fire=ff00c8&currStreakLabel=00fff0" width="48%" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valdniroalbino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff0&text_color=c9d1d9" width="48%" />
-
-</div>
-
-<br>
-
 <!-- ===== TROPHIES ===== -->
 ## `<` ACHIEVEMENTS `/>`
 
