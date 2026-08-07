@@ -47,21 +47,14 @@ system:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00fff0?style=for-the-badge&logo=cplusplus&logoColor=0f2027" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 
 ### Ferramentas & Ambiente
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00fff0" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-### Explorando
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
@@ -90,10 +83,8 @@ valdniro@ISPTEC:~$ cat objetivos_2026.txt
 
 [✔] Dominar estruturas de dados e algoritmos fundamentais
 [✔] Construir base sólida em C++ para competitive programming
-[►] Avançar no currículo AngolaCPC 2026
 [►] Aprofundar Java (JDBC, OOP avançado, Spring Boot)
 [ ] Construir trajetória sólida rumo a DevSecOps
-[ ] Aprofundar Redes de Computadores I
 
 valdniro@ISPTEC:~$ _
 ```
@@ -110,9 +101,11 @@ valdniro@ISPTEC:~$ _
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdniroalbino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff0&text_color=c9d1d9" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valdniroalbino&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff0&line=ff00c8&point=ffffff" width="98%" />
-
 </div>
+
+<br>
+
+> 💡 O gráfico de quadrados verdes (contribuições) já aparece automaticamente na tua página de perfil, logo abaixo deste README — é nativo do GitHub, não precisa de nenhum código aqui.
 
 <br>
 
@@ -124,15 +117,6 @@ valdniro@ISPTEC:~$ _
 </div>
 
 <br>
-
-<!-- ===== SNAKE ANIMATION ===== -->
-## `<` CONTRIBUTION_MATRIX `/>`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/valdniroalbino/valdniroalbino/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-> ⚙️ Para ativar a snake animation, adiciona o workflow do [Platane/snk](https://github.com/Platane/snk) ao teu repositório `valdniroalbino/valdniroalbino`.
 
 <br>
 
